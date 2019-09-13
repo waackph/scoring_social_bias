@@ -1,0 +1,22 @@
+;social feature;covariate;u-statistic;p-value
+12;east_west;secured_loan;53174.0;0.9712398541895306
+1;east_west;monthlyIncome;53023.5;0.9660489483008816
+14;east_west;telecom;53436.5;0.8804927107380155
+5;east_west;banking_connection;53293.5;0.8659722049926146
+19;east_west;credit_card_days;53577.5;0.848323539862039
+3;east_west;relocation;52626.5;0.8364332384765629
+17;east_west;finance_year;53549.5;0.8210665384055141
+10;east_west;global_credit;53381.0;0.7854359628040519
+8;east_west;credit_card;53757.0;0.7842880399268274
+11;east_west;identity;52275.0;0.6298870306024543
+7;east_west;conditions;53945.0;0.5943273475960649
+16;east_west;Versandhandel_req;53909.5;0.5889971917573655
+18;east_west;credit_days;54077.5;0.5808650473239272
+6;east_west;business_relation;52477.0;0.510971433725164
+15;east_west;unsecured_loan;53961.0;0.506567968357799
+2;east_west;age;54940.5;0.4645319803960626
+20;east_west;giro_days;50732.0;0.3268503578518165
+9;east_west;giro;50758.0;0.3211737206195936
+4;east_west;request;50235.0;0.21267818259653803
+13;east_west;solvency;49860.5;0.13886759999998682
+0;east_west;score;58612.0;0.026963322971507157

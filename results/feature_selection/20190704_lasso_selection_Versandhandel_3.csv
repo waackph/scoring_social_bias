@@ -1,0 +1,17 @@
+feature
+age_log2
+credit_card_days_log2
+solvency
+age*credit_card
+credit_card_days
+secured_loan_log2
+giro_days
+request
+relocation
+telecom
+telecom_log2
+finance_year_log2
+age_**3
+giro*unsecured_loan
+age*request
+request_**2

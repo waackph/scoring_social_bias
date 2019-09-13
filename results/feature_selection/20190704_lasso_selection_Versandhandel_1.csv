@@ -1,0 +1,14 @@
+feature
+age_log2
+solvency_log2
+credit_card_days_log2
+female
+finance_year_log2
+relocation_**2
+Versandhandel_req_log2
+credit_card_days
+credit_card_days_**3
+relocation*giro_days
+solvency*credit_card_days
+request*credit_card_days
+age*solvency
